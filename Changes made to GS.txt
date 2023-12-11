@@ -1,0 +1,11 @@
+Changes made to GS
+
+-Added block 8 Binary variables: close_USD_change & close_SAR_change
+-Also made crypto_df = digitalCurrency_df in block 9 since it had so many updates to it already
+-From block 11 removed changes to crypto_df
+-Added code to block 12 to convert binary variable to integer
+-Edited block 29-33 to exclude binary variables from line charts
+-Removed binary columns from Preliminary modeling block 36 **Changed all of the metrics
+-Also added code snippet to create sar_metrics & usd_metrics dictionaries
+
+
