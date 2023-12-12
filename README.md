@@ -1,5 +1,7 @@
 # Bitcoin Price Time Series Analysis & Forecasting
 
+![DALL·E 2023-12-11 17 46 07 - The artwork visualizes the concept of Bitcoin Price Time Series Analysis and Forecasting  It features a background of graphs and charts illustrating B](https://github.com/trevsauer/Bitcoin_time_series_analysis_and_forecast/assets/60379514/b2d4b0c1-935e-487f-80bc-afb6072203db)
+
 Welcome to the Bitcoin Price Time Series Analysis project repository. This project focuses on leveraging time series analysis to gain insights into Bitcoin trading, particularly in the regions of Saudi Arabian Riyal (SAR) and the United States Dollar (USD).
 
 Objective
